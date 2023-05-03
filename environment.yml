@@ -1,0 +1,25 @@
+name: bench-env
+channels:
+  - conda-forge
+  - plotly
+dependencies:
+  - python=3.9
+  - python-kaleido
+  - pandas
+  - plotly
+  - cmake
+  - xtensor
+  - xtensor-blas
+  - xtensor-io
+  - xsimd
+  - ncurses
+
+  # - llvm
+  # - clang-tools
+  # - clang
+
+  # - cxx-compiler
+  # - openmp
+  # - cxxopts
+  # - jupyter
+  # - fmt

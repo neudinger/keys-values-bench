@@ -1,0 +1,26 @@
+# Build directory
+builds/
+libs/
+binaries/
+results/eps/
+results/png/
+.vscode/
+impress.js
+biblio.bib
+paper.tex
+note.md
+*.log
+*.nav
+*.vrb
+*.toc
+*.snm
+*.pdf
+*.fdb_latexmk
+*.fls
+*.aux
+*.tex
+*.dvi
+*.xdv
+*.out.ps
+*.synctex.gz
+*.html
